@@ -1,0 +1,2 @@
+# https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJIaR1npzt3zgRYq1hh1yoMpw&fields=name,rating,formatted_phone_number,formatted_address,international_phone_number,reviews&key=AIzaSyAbPKvoZ1QdSrIm9hEjjde3HPGwQ9mx0kI
+# https://maps.googleapis.com/maps/api/place/textsearch/json?query=walee%20technologies&key=AIzaSyAbPKvoZ1QdSrIm9hEjjde3HPGwQ9mx0kI
