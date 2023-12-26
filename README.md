@@ -2,7 +2,10 @@
 Welcome to GoogleScrape, your Python-based companion for automating the extraction of place details from Google Maps using the mighty Selenium. Dive into the world of effortless data gathering with this powerful repository!
 
 # How It Works 🚀
-Curious minds, behold the magic! Witness the seamless operation of the crawler in action: Working of the Crawler <br/>
+Curious minds, behold the magic! Witness the seamless operation of the crawler in action
+
+# Working of the Crawler <br/>
+
 https://github.com/pipinstallshan/google-maps-crawl/assets/96914475/36c53d96-a8ef-4515-ab6a-0518bd861e48
 
 # Sample JSON Object 📋
